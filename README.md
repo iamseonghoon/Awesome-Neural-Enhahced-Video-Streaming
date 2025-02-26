@@ -13,9 +13,8 @@ This is a list of recent literature on video streaming published in major venues
 ### Video Conferencing
 * [NSDI 2024] Gemino: Practical and Robust Neural Compression for Video Conferencing
 
-### VoD Streaming for Mobile Devices
+### Mobile VoD Streaming
 * [MobiCom 2020] NEMO: enabling neural-enhanced video streaming on commodity mobile devices
-
 
 
 ## 360-Degree Videos
