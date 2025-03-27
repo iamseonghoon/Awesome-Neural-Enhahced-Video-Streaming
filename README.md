@@ -15,11 +15,14 @@ This is a list of recent literature on video streaming published in major venues
 ### 2D Video Streaming (Mobile)
 * VoD streaming
   * [WWW 2023] BiSR: Bidirectionally Optimized Super-Resolution for Mobile Video Streaming [(Paper)](https://dl.acm.org/doi/10.1145/3543507.3583519)
+  * [CoNEXT 2021] dcSR: Practical Video Quality Enhancement Using Data-Centric Super Resolution [(Paper)](https://dl.acm.org/doi/abs/10.1145/3485983.3494856)
   * [MobiCom 2020] NEMO: enabling neural-enhanced video streaming on commodity mobile devices [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3419185)
+  * [INFOCOM 2020] (SRAVS) Improving Quality of Experience by Adaptive Video Streaming with Super-Resolution [(Paper)(https://ieeexplore.ieee.org/document/9155384)
 
 ### 360-degree Video Streaming (Non-mobile)
 * VoD streaming
-  * [INFOCOM 2020] Streaming 360-degree Videos using Super-Resolution [(Paper)](https://ieeexplore.ieee.org/document/9155477)
+  * [INFOCOM 2020] (PARSEC) Streaming 360-degree Videos using Super-Resolution [(Paper)](https://ieeexplore.ieee.org/document/9155477)
+  * [NOSSDAV 2020] SR360: Boosting 360-degree video streaming with super-resolution [(Paper)](https://dl.acm.org/doi/10.1145/3386290.3396929)
 
 ### 360-degree Video Streaming (Mobile)
 * Live streaming
