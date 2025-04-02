@@ -1,7 +1,7 @@
 # Awesome-Neural-Enhahced-Video-Streaming
 This is a list of recent literature on video streaming published in major venues. In particular, this list focuses on the super-resolution or neural codec-based approaches. Just so you know, papers on volumetric video streaming are listed [here](https://github.com/parkseonghoony/Awesome-Volumetric-Video-Streaming/blob/main/README.md).
 
-### 2D Video Streaming (Non-mobile)
+### 2D Video Streaming (Non-Mobile)
 * VoD streaming
   * [NSDI 2022] Swift: Adaptive Video Streaming with Layered Neural Codecs [(Paper)](https://www.usenix.org/conference/nsdi22/presentation/dasari)
   * [IEEE TCSVT 2022] DeepStream: Video Streaming Enhancements using Compressed Deep Neural Networks [(Paper)](https://ieeexplore.ieee.org/document/9984695)
@@ -19,7 +19,7 @@ This is a list of recent literature on video streaming published in major venues
   * [MobiCom 2020] NEMO: enabling neural-enhanced video streaming on commodity mobile devices [(Paper)](https://dl.acm.org/doi/10.1145/3372224.3419185)
   * [INFOCOM 2020] Improving Quality of Experience by Adaptive Video Streaming with Super-Resolution (SRAVS) [(Paper)](https://ieeexplore.ieee.org/document/9155384)
 
-### 360-degree Video Streaming (Non-mobile)
+### 360-degree Video Streaming (Non-Mobile)
 * VoD streaming
   * [VR 2025] Adaptive 360-Degree Video Streaming with Super-Resolution and Interpolation [(Paper)]()
   * [TSC 2024] NOVA: Neural-Optimized Viewport Adaptive 360-Degree Video Streaming at the Edge [(Paper)](https://ieeexplore.ieee.org/document/10654590)
