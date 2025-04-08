@@ -3,6 +3,7 @@ This is a list of recent literature on video streaming published in major venues
 
 ### 2D Video Streaming (Non-Mobile)
 * VoD streaming
+  * [SIGMETRICS 2024] BONES: Near-Optimal Neural-Enhanced Video Streaming [(Paper)](https://dl.acm.org/doi/abs/10.1145/3656014)
   * [NSDI 2022] Swift: Adaptive Video Streaming with Layered Neural Codecs [(Paper)](https://www.usenix.org/conference/nsdi22/presentation/dasari)
   * [IEEE TCSVT 2022] DeepStream: Video Streaming Enhancements using Compressed Deep Neural Networks [(Paper)](https://ieeexplore.ieee.org/document/9984695)
   * [OSDI 2018] Neural Adaptive Content-aware Internet Video Delivery (NAS) [(Paper)](https://www.usenix.org/conference/osdi18/presentation/yeo)
