@@ -1,5 +1,5 @@
 # Awesome-Neural-Enhahced-Video-Streaming
-This is a list of recent literature on video streaming published in major venues. In particular, this list focuses on the super-resolution or neural codec-based approaches. Just so you know, papers on volumetric video streaming are listed [here](https://github.com/parkseonghoony/Awesome-Volumetric-Video-Streaming/blob/main/README.md).
+This is a list of recent literature on video streaming published in major venues. In particular, this list focuses on the super-resolution or neural codec-based approaches. Papers on volumetric video streaming are listed [Awesome-Volumetric-Video-Streaming](https://github.com/parkseonghoony/Awesome-Volumetric-Video-Streaming/blob/main/README.md).
 
 ### 2D Video Streaming (Non-Mobile)
 * VoD streaming
