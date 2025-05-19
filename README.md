@@ -32,6 +32,7 @@ This is a list of recent literature on video streaming published in major venues
 
 **Live streaming**
 * [SenSys 2025] Orbis: Redesigning Neural-enhanced Video Streaming for Live Immersive Viewing [(Paper)](https://dl.acm.org/doi/10.1145/3715014.3722088)
+  * Interleaved downscaling + Inpainting-based enhancement
 * [MM 2024] Lumos: Optimizing Live 360-degree Video Upstreaming via Spatial-Temporal Integrated Neural Enhancement [(Paper)](https://dl.acm.org/doi/10.1145/3664647.3681305)
   * Super-resolution + Frame interpolation
 * [TBC 2023] Vaser: Optimizing 360-Degree Live Video Ingest via Viewport-Aware Neural Enhancement [(Paper)](https://ieeexplore.ieee.org/abstract/document/10227835)
