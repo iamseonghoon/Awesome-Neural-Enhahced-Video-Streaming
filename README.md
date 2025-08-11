@@ -24,7 +24,6 @@ This is a list of recent literature on video streaming published in major venues
 
 ### B-1. 360-degree Video Streaming (Non-Mobile)
 **VoD streaming**
-* [VR 2025] Adaptive 360-Degree Video Streaming with Super-Resolution and Interpolation [(Paper)](https://ieeexplore.ieee.org/document/10937393)
 * [TSC 2024] NOVA: Neural-Optimized Viewport Adaptive 360-Degree Video Streaming at the Edge [(Paper)](https://ieeexplore.ieee.org/document/10654590)
 * [MM 2022] Sophon: Super-Resolution Enhanced 360◦ Video Streaming with Visual Saliency-aware Prefetch [(Paper)](https://dl.acm.org/doi/10.1145/3503161.3547750)
 * [INFOCOM 2020] Streaming 360-degree Videos using Super-Resolution (PARSEC) [(Paper)](https://ieeexplore.ieee.org/document/9155477)
@@ -39,6 +38,7 @@ This is a list of recent literature on video streaming published in major venues
 
 ### B-2. 360-degree Video Streaming (Mobile)
 **VoD streaming**
+* [VR 2025] Adaptive 360-Degree Video Streaming with Super-Resolution and Interpolation [(Paper)](https://ieeexplore.ieee.org/document/10937393)
 * [INFOCOM 2024] TBSR: Tile-Based 360◦ Video Streaming with Super-Resolution on Commodity Mobile Devices [(Paper)](https://ieeexplore.ieee.org/abstract/document/10621078/)
 * [INFOCOM 2023] Collaborative Streaming and Super Resolution Adaptation for Mobile Immersive Videos (CASE) [(Paper)](https://ieeexplore.ieee.org/document/10228906)
 
